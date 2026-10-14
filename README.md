@@ -8,7 +8,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Robotics-Deployment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Deployment?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Robotics-Deployment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Deployment?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Robotics-Deployment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Robotics-Deployment?style=flat-square&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Robotics-Deployment/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -78,72 +78,72 @@ The table below lists the category-leading commercial SaaS platforms for robot o
 
 Open-source tooling empowers robotics teams to build custom fleet management, self-host operations, maintain absolute data ownership, and avoid proprietary vendor lock-in.
 
-The list below features the top active open-source robotics deployment and infrastructure repositories, sorted by **GitHub Stars (descending)**:
+The list below features the top active open-source robotics deployment and infrastructure repositories, sorted by **GitHub_Stars (descending)**:
 
-1. **[LeRobot](https://github.com/huggingface/lerobot)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)  
+1. **[LeRobot](https://github.com/huggingface/lerobot)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)  
    Hugging Face's state-of-the-art machine learning library for real-world robotics in PyTorch. Includes pretrained models, standardized imitation learning datasets, hardware-accelerated training utilities, and production pipelines for deploying Vision-Language-Action (VLA) models on real edge robots.
 
-2. **[Autoware](https://github.com/autowarefoundation/autoware)** [![GitHub stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social&color=white)](https://github.com/autowarefoundation/autoware/stargazers)  
+2. **[Autoware](https://github.com/autowarefoundation/autoware)** [![GitHub_Stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social&color=white)](https://github.com/autowarefoundation/autoware/stargazers)  
    The world's leading open-source software stack for autonomous driving and mobile robot fleet deployment. Built natively on ROS 2 with complete, production-ready modules for high-precision 3D localization, perception, path planning, and vehicle drive-by-wire control.
 
-3. **[KubeEdge](https://github.com/kubeedge/kubeedge)** [![GitHub stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=social&color=white)](https://github.com/kubeedge/kubeedge/stargazers)  
+3. **[KubeEdge](https://github.com/kubeedge/kubeedge)** [![GitHub_Stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=social&color=white)](https://github.com/kubeedge/kubeedge/stargazers)  
    CNCF incubating Kubernetes Native Edge Computing Framework. Extends native containerized orchestration to robotics edge devices, delivering bidirectional edge-cloud messaging, MQTT device twins, zero-downtime application deployment, and continuous offline autonomous operation during network dropouts.
 
-4. **[ROS 2](https://github.com/ros2/ros2)** [![GitHub stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers)  
+4. **[ROS 2](https://github.com/ros2/ros2)** [![GitHub_Stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers)  
    The industry-standard Robot Operating System middleware. Powers modern commercial robot fleets with DDS-based inter-process communication, real-time safety lifecycles, cross-platform hardware support (Linux, Windows, macOS, RTOS), and modular package deployment.
 
-5. **[Nav2 (Navigation 2)](https://github.com/ros-navigation/navigation2)** [![GitHub stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=social&color=white)](https://github.com/ros-navigation/navigation2/stargazers)  
+5. **[Nav2 (Navigation 2)](https://github.com/ros-navigation/navigation2)** [![GitHub_Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=social&color=white)](https://github.com/ros-navigation/navigation2/stargazers)  
    The de facto autonomous navigation, path planning, and fleet execution framework for ROS 2. Enables Autonomous Mobile Robots (AMRs) to navigate dynamic warehouse, logistics, and hospital environments with sophisticated behavioral trees, costmap 2D/3D layers, and collision avoidance.
 
-6. **[Dora (dora-rs)](https://github.com/dora-rs/dora)** [![GitHub stars](https://img.shields.io/github/stars/dora-rs/dora?style=social&color=white)](https://github.com/dora-rs/dora/stargazers)  
+6. **[Dora (dora-rs)](https://github.com/dora-rs/dora)** [![GitHub_Stars](https://img.shields.io/github/stars/dora-rs/dora?style=social&color=white)](https://github.com/dora-rs/dora/stargazers)  
    Ultra-fast, low-latency robotics dataflow framework and distributed edge orchestrator written in Rust. Features zero-copy shared-memory transport and Apache Arrow columnar memory formats with polyglot node support across Rust, Python, C, and C++ for high-performance edge AI pipelines.
 
-7. **[Zenoh](https://github.com/eclipse-zenoh/zenoh)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-zenoh/zenoh?style=social&color=white)](https://github.com/eclipse-zenoh/zenoh/stargazers)  
+7. **[Zenoh](https://github.com/eclipse-zenoh/zenoh)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-zenoh/zenoh?style=social&color=white)](https://github.com/eclipse-zenoh/zenoh/stargazers)  
    Zero-overhead pub/sub, shared memory, and distributed storage protocol purpose-built for robotics and edge computing. Delivers sub-microsecond latencies, native ROS 2 bridges (`rmw_zenoh`), and ultra-low bandwidth consumption across noisy industrial Wi-Fi and 5G connections.
 
-8. **[Iceoryx](https://github.com/eclipse-iceoryx/iceoryx)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-iceoryx/iceoryx?style=social&color=white)](https://github.com/eclipse-iceoryx/iceoryx/stargazers)  
+8. **[Iceoryx](https://github.com/eclipse-iceoryx/iceoryx)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-iceoryx/iceoryx?style=social&color=white)](https://github.com/eclipse-iceoryx/iceoryx/stargazers)  
    Eclipse Foundation's true zero-copy inter-process communication (IPC) middleware designed for safety-critical autonomous systems. Enables deterministic, zero-copy payload transmission for high-throughput robotic sensor deployments (high-res cameras, LiDAR, and radar).
 
-9. **[Awesome Robotics](https://github.com/ahundt/awesome-robotics)** [![GitHub stars](https://img.shields.io/github/stars/ahundt/awesome-robotics?style=social&color=white)](https://github.com/ahundt/awesome-robotics/stargazers)  
+9. **[Awesome Robotics](https://github.com/ahundt/awesome-robotics)** [![GitHub_Stars](https://img.shields.io/github/stars/ahundt/awesome-robotics?style=social&color=white)](https://github.com/ahundt/awesome-robotics/stargazers)  
    Extensive, established curated list of robotics software libraries, perception algorithms, simulators, learning resources, and academic tools across robotics domains.
 
-10. **[open-balena](https://github.com/balena-io/open-balena)** [![GitHub stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
+10. **[open-balena](https://github.com/balena-io/open-balena)** [![GitHub_Stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
     Open-source platform for deploying and managing connected IoT and robotics edge devices. Enables container-based over-the-air (OTA) updates, secure remote SSH tunneling, environment variable management, and centralized fleet rollouts for embedded Linux robots.
 
-11. **[Lichtblick](https://github.com/lichtblick-suite/lichtblick)** [![GitHub stars](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?style=social&color=white)](https://github.com/lichtblick-suite/lichtblick/stargazers)  
+11. **[Lichtblick](https://github.com/lichtblick-suite/lichtblick)** [![GitHub_Stars](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?style=social&color=white)](https://github.com/lichtblick-suite/lichtblick/stargazers)  
     BMW-maintained open-source visualization and robotics data inspection suite for ROS and ROS 2. Provides desktop and web interfaces for inspecting real-time sensor streams, point clouds, TF transforms, and diagnostics.
 
-12. **[MCAP](https://github.com/foxglove/mcap)** [![GitHub stars](https://img.shields.io/github/stars/foxglove/mcap?style=social&color=white)](https://github.com/foxglove/mcap/stargazers)  
+12. **[MCAP](https://github.com/foxglove/mcap)** [![GitHub_Stars](https://img.shields.io/github/stars/foxglove/mcap?style=social&color=white)](https://github.com/foxglove/mcap/stargazers)  
     Modular, high-performance container file format for robotics and multimodal temporal data. Designed for zero-copy streaming, fast indexing, self-contained schemas (Protobuf, ROS msg, JSON Schema), and robust write-throughput on edge robot hardware without data corruption.
 
-13. **[openTCS](https://github.com/openTCS/opentcs)** [![GitHub stars](https://img.shields.io/github/stars/openTCS/opentcs?style=social&color=white)](https://github.com/openTCS/opentcs/stargazers)  
+13. **[openTCS](https://github.com/openTCS/opentcs)** [![GitHub_Stars](https://img.shields.io/github/stars/openTCS/opentcs?style=social&color=white)](https://github.com/openTCS/opentcs/stargazers)  
     Open-source Transport Control System for coordinating fleets of automated guided vehicles (AGVs) and AMRs in factories and logistics facilities. Provides vehicle routing, collision-free traffic scheduling, order dispatching, and hardware communication abstractions.
 
-14. **[Micro-ROS Arduino](https://github.com/micro-ROS/micro_ros_arduino)** [![GitHub stars](https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social&color=white)](https://github.com/micro-ROS/micro_ros_arduino/stargazers)  
+14. **[Micro-ROS Arduino](https://github.com/micro-ROS/micro_ros_arduino)** [![GitHub_Stars](https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social&color=white)](https://github.com/micro-ROS/micro_ros_arduino/stargazers)  
     Pre-compiled micro-ROS client library for microcontrollers (ESP32, Teensy, STM32, Arduino). Enables resource-constrained edge sensor nodes and motor controllers to participate natively as first-class ROS 2 nodes.
 
-15. **[Open-RMF](https://github.com/open-rmf/rmf)** [![GitHub stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social&color=white)](https://github.com/open-rmf/rmf/stargazers)  
+15. **[Open-RMF](https://github.com/open-rmf/rmf)** [![GitHub_Stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social&color=white)](https://github.com/open-rmf/rmf/stargazers)  
     Open Robot Management Framework by Open Robotics. Standardized multi-fleet traffic scheduling, task allocation, building infrastructure integration (elevators, automatic doors), and vendor-neutral interoperability for fleets operating in shared spaces (airports, hospitals, warehouses).
 
-16. **[Awesome Open Source Robots](https://github.com/stephane-caron/awesome-open-source-robots)** [![GitHub stars](https://img.shields.io/github/stars/stephane-caron/awesome-open-source-robots?style=social&color=white)](https://github.com/stephane-caron/awesome-open-source-robots/stargazers)  
+16. **[Awesome Open Source Robots](https://github.com/stephane-caron/awesome-open-source-robots)** [![GitHub_Stars](https://img.shields.io/github/stars/stephane-caron/awesome-open-source-robots?style=social&color=white)](https://github.com/stephane-caron/awesome-open-source-robots/stargazers)  
     Comprehensive curated collection of open-source robot hardware, arms, mobile manipulators, quadrupeds, humanoids, and bipedal platforms with full mechanical blueprints and open firmware.
 
-17. **[Micro-ROS Agent](https://github.com/micro-ROS/micro-ROS-Agent)** [![GitHub stars](https://img.shields.io/github/stars/micro-ROS/micro-ROS-Agent?style=social&color=white)](https://github.com/micro-ROS/micro-ROS-Agent/stargazers)  
+17. **[Micro-ROS Agent](https://github.com/micro-ROS/micro-ROS-Agent)** [![GitHub_Stars](https://img.shields.io/github/stars/micro-ROS/micro-ROS-Agent?style=social&color=white)](https://github.com/micro-ROS/micro-ROS-Agent/stargazers)  
     Middleware gateway bridging resource-constrained micro-ROS microcontrollers into standard ROS 2 DDS networks across Serial, UDP, and TCP edge interfaces.
 
-18. **[Transitive](https://github.com/transitiverobotics/transitive)** [![GitHub stars](https://img.shields.io/github/stars/transitiverobotics/transitive?style=social&color=white)](https://github.com/transitiverobotics/transitive/stargazers)  
+18. **[Transitive](https://github.com/transitiverobotics/transitive)** [![GitHub_Stars](https://img.shields.io/github/stars/transitiverobotics/transitive?style=social&color=white)](https://github.com/transitiverobotics/transitive/stargazers)  
     Full-stack open-source robotics framework with fine-grained access control. Integrates ClickHouse for historical time-series data, Grafana for visual dashboards, Alertmanager for alerting, and full-stack reactive device management on self-hosted Docker Compose.
 
-19. **[Foxglove WebSocket Protocol](https://github.com/foxglove/ws-protocol)** [![GitHub stars](https://img.shields.io/github/stars/foxglove/ws-protocol?style=social&color=white)](https://github.com/foxglove/ws-protocol/stargazers)  
+19. **[Foxglove WebSocket Protocol](https://github.com/foxglove/ws-protocol)** [![GitHub_Stars](https://img.shields.io/github/stars/foxglove/ws-protocol?style=social&color=white)](https://github.com/foxglove/ws-protocol/stargazers)  
     Lightweight, high-speed binary WebSocket communication protocol for streaming ROS 1, ROS 2, and custom robot telemetry directly to web dashboards, visualization apps, and operator teleoperation clients.
 
-20. **[Open-RAIL](https://github.com/CMCC-TAO/open-rail)** [![GitHub stars](https://img.shields.io/github/stars/CMCC-TAO/open-rail?style=social&color=white)](https://github.com/CMCC-TAO/open-rail/stargazers)  
+20. **[Open-RAIL](https://github.com/CMCC-TAO/open-rail)** [![GitHub_Stars](https://img.shields.io/github/stars/CMCC-TAO/open-rail?style=social&color=white)](https://github.com/CMCC-TAO/open-rail/stargazers)  
     Middleware from China Mobile linking Vision-Language-Action (VLA) and World-Action Models (WAM) to physical robot actuators via a 3-thread asynchronous pipeline (observation, inference, control) with real-time online smoothing.
 
-21. **[SONNY OS](https://github.com/JackTrainer/Sonny)** [![GitHub stars](https://img.shields.io/github/stars/JackTrainer/Sonny?style=social&color=white)](https://github.com/JackTrainer/Sonny/stargazers)  
+21. **[SONNY OS](https://github.com/JackTrainer/Sonny)** [![GitHub_Stars](https://img.shields.io/github/stars/JackTrainer/Sonny?style=social&color=white)](https://github.com/JackTrainer/Sonny/stargazers)  
     Ultra-lightweight microkernel built in Rust and Zenoh for robotic hardware abstraction. Features WebAssembly (WASM) sandboxing for hot-swappable skill execution and real-time hardware watchdog monitors.
 
-22. **[Trillium](https://github.com/RobotnikAutomation/trillium)** [![GitHub stars](https://img.shields.io/github/stars/RobotnikAutomation/trillium?style=social&color=white)](https://github.com/RobotnikAutomation/trillium/stargazers)  
+22. **[Trillium](https://github.com/RobotnikAutomation/trillium)** [![GitHub_Stars](https://img.shields.io/github/stars/RobotnikAutomation/trillium?style=social&color=white)](https://github.com/RobotnikAutomation/trillium/stargazers)  
     Free, open-source web and desktop robotics visualization and control app by Robotnik. Fork of Foxglove Studio v1.87.0 featuring a 40% smaller web app and 23% smaller desktop binary footprint.
 
 ### 🌟 Specialized & Emerging RobOps Frameworks
